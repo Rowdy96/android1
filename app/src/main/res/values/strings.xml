@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="log_in">Login</string>
+    <string name="user_list" translatable="false">User List</string>
+    <string name="todo">TODO</string>
+    <string name="userimage">userImage</string>
+</resources>
