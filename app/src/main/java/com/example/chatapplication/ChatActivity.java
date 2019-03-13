@@ -100,7 +100,7 @@ public class ChatActivity extends AppCompatActivity {
             }
         });
 
-       // doTheAutoRefresh(token,id);
+       doTheAutoRefresh(token,id);
 
     }
     void Messages(String token , final int id)
